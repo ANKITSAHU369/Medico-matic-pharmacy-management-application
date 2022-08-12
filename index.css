@@ -8,6 +8,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+     background-color:rgba(162, 180, 222, 0.689);
 }
 
 .navbar-main{
@@ -24,6 +25,7 @@ body{
     background-color: #fff;
     justify-content: space-between;
     height: 70px;
+    background-color: rgba(168, 130, 240, 0.567);
 }
 
 .navbar-logo{
