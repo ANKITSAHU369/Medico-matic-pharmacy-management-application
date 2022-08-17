@@ -25,7 +25,7 @@ body{
     background-color: #fff;
     justify-content: space-between;
     height: 70px;
-    background-color: rgba(168, 130, 240, 0.567);
+    background-color: rgba(168, 130, 240, 0.982);
 }
 
 .navbar-logo{
@@ -70,9 +70,9 @@ body{
 }
 
 .navbar-menu.active{
-    color: #20b883;
+    color: #fff;
     padding-bottom: 22px;
-    border-bottom: 3px solid #20b883;
+    border-bottom: 3px solid #fff;
 }
 
 #pharmacy-login-wrapper{
