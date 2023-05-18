@@ -22,9 +22,18 @@
     font-size: 12px;
     font-weight: 900;
     letter-spacing: 1px;
-    background-color: #20b883;
-    color: #fff;
+    background-color: #4d5c52;
+    color: lightcoral;
     border: none;
     outline: none;
     cursor: pointer;
 }
+
+.reset-button:hover{
+        background-color: #3e8e41;
+        color: white;
+}
+
+#logout-button:hover {
+    color: #fff;
+    }

@@ -8,7 +8,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-     background-color:rgba(162, 180, 222, 0.689);
+     background-color:;
 }
 
 .navbar-main{
@@ -25,17 +25,17 @@ body{
     background-color: #fff;
     justify-content: space-between;
     height: 70px;
-    background-color: rgba(168, 130, 240, 0.982);
+    background-color: rgb(227 184 205);
 }
 
 .navbar-logo{
     display: flex;
     align-items: center;
-    margin-right: 42px;
+    margin-right: 46px;
 }
 
 .navbar-logo img{
-    width: 24px;
+    width: 28px;
     height: 28px;
     margin-right: 18px;
 }
@@ -116,12 +116,16 @@ body{
     font-size: 15px;
     font-weight: 900;
     letter-spacing: 1px;
-    background-color: #20b883;
-    color: #fff;
+    background-color: #4d5c52;
+    color: lightcoral;
     border: none;
     outline: none;
     cursor: pointer;
     margin-top: 24px;
+}
+.loginForm-submit-Button:hover{
+    background-color: #3e8e41;
+    color: white;
 }
 
 .container-filter-option input{
